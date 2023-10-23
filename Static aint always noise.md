@@ -1,5 +1,7 @@
 # Static ain't always noise
 
+>Solved: 10/22/2023
+
 Points: 20
 Category: General Skills
 

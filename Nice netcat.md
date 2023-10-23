@@ -1,5 +1,7 @@
 # Nice Netcat...
 
+>Solved: 10/22/2023
+
 ## Overview
 
 Points: 15

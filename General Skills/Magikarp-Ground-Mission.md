@@ -1,9 +1,10 @@
 # Magikarp Ground Mission
 
 >Solved: 10/22/2023
-
-Points: 30
-Category: General Skills
+>
+>Points: 30
+>
+>Category: General Skills
 
 ## Overview
 

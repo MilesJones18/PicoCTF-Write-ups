@@ -1,6 +1,10 @@
 # Nice Netcat...
 
 >Solved: 10/22/2023
+>
+>Points: 100
+>
+>Category: General Skills
 
 ## Overview
 
